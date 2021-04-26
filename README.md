@@ -1,6 +1,8 @@
 [<img src="banner.png" width="100%">](#)
 
-### Fundamentals
+**Index:** [FUNDAMENTALS](https://github.com/seckincengiz/iot#fundamentals) - [DEVELOPMENT](https://github.com/seckincengiz/iot#development) - [SOLUTIONS](https://github.com/seckincengiz/iot#solutions) - [ABOUT](https://github.com/seckincengiz/iot#about)
+
+### FUNDAMENTALS
 
 #### IoT 101
 
@@ -42,11 +44,27 @@
 * [Clutch/IoT](https://clutch.co/developers/internet-of-things) - Best IoT Companies
 * [Angel/IoT](https://angel.co/internet-of-things) - IoT Sturtups
 
-### Development
+### DEVELOPMENT
 
-#### Boards & Kits
+#### Open Source Boards & Kits
+
+* [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform based on easy-to-use hardware and software
+* [BeagleBoard](http://beagleboard.org/) - The BeagleBoard is a low-power open-source hardware single-board computer produced by Texas Instruments
+* [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c) - Development board based on the mid-tier Qualcomm® Snapdragon™ 410E processor
+* [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity
+* [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - A small and powerful, low-cost ARM computers that ignite the imagination
+* [Odroid](http://www.hardkernel.com/) - The ODROID means Open + Droid. It is a development platform for the hardware as well as the software
+* [Particle](https://www.particle.io) - A suite of hardware and software tools to help you prototype, scale, and manage your Internet of Things products.
+* [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio is a solution to add mesh networking capability and WiFi-Internet access to all yout IoT devices, and it is Arduino compatible.
+* [Raspberry Pi](https://www.raspberrypi.org/) - The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
+* [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
+* [UDOO](http://www.udoo.org) - UDOO is a single-board computer with an integrated Arduino 2 compatible microcontroller, designed for computer science education, the world of Makers and the Internet of Things.
 
 #### SDKs
+
+### SOLUTIONS
+
+#### Cloud Services
 
 ### ABOUT
 
