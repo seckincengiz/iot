@@ -63,7 +63,21 @@
 
 ### SOLUTIONS
 
-#### Cloud Services
+#### Cloud
+
+* [AWS IoT](https://aws.amazon.com/iot/) - Amazon cloud for the IoT
+* [PTC Thingworx](https://www.ptc.com/en/products/thingworx) -  IoT platform designed by PTC for development of enterprise app development
+* [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Microsoft cloud for the IoT
+* [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Google cloud platform IoT solutions
+* [Oracle IoT Cloud](https://www.oracle.com/internet-of-things/) - ORACLE IoT cloud solution
+* [Siemens MindSphere](http://www.siemens.com/global/en/home/company/topic-areas/digitalization/mindsphere.html) - Open IoT ecosystem as PaaS
+* [IBM Watson IoT](https://www.ibm.com/cloud/watson-iot-platform) - IBM cloud for the IoT
+* [Cisco Cloud](https://www.cisco.com/c/en/us/solutions/service-provider/index.html) - Cisco cloud solitions
+* [AlibabaCloud](https://www.alibabacloud.com/solutions/IoT) - A cloud computing solution
+* [ARM Pelion](https://www.pelion.com/) - Arm Pelion IoT Platform including Connectivity, Device and Data management service
+* [CloudPlugs IoT](https://cloudplugs.com/) - An end-to-end Fog Computing Platform for IoT
+* [Rightech IoT Cloud](https://rightech.io/en/main/) - A cloud platform of Internet of Things
+* [EMQ X Cloud](https://cloud.emqx.io/) - Fully managed MQTT IoT cloud
 
 ### ABOUT
 
