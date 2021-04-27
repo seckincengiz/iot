@@ -49,13 +49,13 @@
 #### Open Source Boards
 
 * [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform based on easy-to-use hardware and software
-* [BeagleBoard](http://beagleboard.org/) - The BeagleBoard is a low-power open-source hardware single-board computer produced by Texas Instruments
+* [BeagleBoard](http://beagleboard.org/) - A low-power open-source hardware single-board computer produced by Texas Instruments
 * [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c) - Development board based on the mid-tier Qualcomm® Snapdragon™ 410E processor
 * [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity
 * [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - A small and powerful, low-cost ARM computers that ignite the imagination
 * [Odroid](http://www.hardkernel.com/) - The ODROID means Open + Droid. It is a development platform for the hardware as well as the software
-* [Particle](https://www.particle.io) - A suite of hardware and software tools to help you prototype, scale, and manage your Internet of Things products.
-* [Raspberry Pi](https://www.raspberrypi.org/) - Credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse
+* [Particle](https://www.particle.io) - A suite of hardware and software tools to help you prototype, scale, and manage your IoT products
+* [Raspberry Pi](https://www.raspberrypi.org/) - Credit-card sized computer that plugs into a computer monitor, and uses a keyboard and mouse
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform
 * [UDOO](http://www.udoo.org) - UDOO is a family of Open Source Arduino-powered Mini PC
 
@@ -78,6 +78,7 @@
 * [CloudPlugs IoT](https://cloudplugs.com/) - An end-to-end Fog Computing Platform for IoT
 * [Rightech IoT Cloud](https://rightech.io/en/main/) - A cloud platform of Internet of Things
 * [EMQ X Cloud](https://cloud.emqx.io/) - Fully managed MQTT IoT cloud
+* [SAP IoT](https://www.sap.com/products/iot-data-services.html) - Offers capabilities to address industrial IoT use cases
 
 ### ABOUT
 
