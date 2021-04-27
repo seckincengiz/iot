@@ -1,6 +1,6 @@
 [<img src="banner.png" width="100%">](#)
 
-**Index:** [FUNDAMENTALS](https://github.com/seckincengiz/iot#fundamentals) - [DEVELOPMENT](https://github.com/seckincengiz/iot#development) - [ABOUT](https://github.com/seckincengiz/iot#about)
+**Index:** [FUNDAMENTALS](https://github.com/seckincengiz/iot#fundamentals) - [DEVELOPMENT](https://github.com/seckincengiz/iot#development) - [RESOURCES](https://github.com/seckincengiz/iot#resources) - [ABOUT](https://github.com/seckincengiz/iot#about)
 
 ### FUNDAMENTALS
 
@@ -92,6 +92,8 @@
 * [Rightech IoT Cloud](https://rightech.io/en/main/) - A cloud platform of Internet of Things
 * [EMQ X Cloud](https://cloud.emqx.io/) - Fully managed MQTT IoT cloud
 * [SAP IoT](https://www.sap.com/products/iot-data-services.html) - Offers capabilities to address industrial IoT use cases
+
+### RESOURCES
 
 #### 🔴 Videos, 🟠 Articles, 🔵 Tutorials & 🟣 Repositories
 
