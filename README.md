@@ -1,6 +1,6 @@
 [<img src="banner.png" width="100%">](#)
 
-**Index:** [FUNDAMENTALS](https://github.com/seckincengiz/iot#fundamentals) - [DEVELOPMENT](https://github.com/seckincengiz/iot#development) - [SOLUTIONS](https://github.com/seckincengiz/iot#solutions) - [ABOUT](https://github.com/seckincengiz/iot#about)
+**Index:** [FUNDAMENTALS](https://github.com/seckincengiz/iot#fundamentals) - [DEVELOPMENT](https://github.com/seckincengiz/iot#development) - [ABOUT](https://github.com/seckincengiz/iot#about)
 
 ### FUNDAMENTALS
 
@@ -65,9 +65,15 @@
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform
 * [UDOO](http://www.udoo.org) - UDOO is a family of Open Source Arduino-powered Mini PC
 
-#### SDKs
+#### Open Source Tools & Platforms
 
-### SOLUTIONS
+* [Platform IO](https://platformio.org/) - Professional collaborative platform for embedded development
+* [NodeRed](https://nodered.org/) - Low-code programming for event-driven applications
+
+#### Commercial Tools & Platforms
+
+* [Mendix](https://www.mendix.com/) - Mendix is the low-code platform for everyone to make business better
+* [Predix](https://www.ge.com/digital/iiot-platform) - Connect, optimize, and scale your digital industrial applications
 
 #### Cloud
 
@@ -77,6 +83,7 @@
 * [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Google cloud platform IoT solutions
 * [Oracle IoT Cloud](https://www.oracle.com/internet-of-things/) - ORACLE IoT cloud solution
 * [Siemens MindSphere](http://www.siemens.com/global/en/home/company/topic-areas/digitalization/mindsphere.html) - Open IoT ecosystem as PaaS
+* [Kaa](https://www.kaaproject.org/) - The most flexible IoT platform for your business
 * [IBM Watson IoT](https://www.ibm.com/cloud/watson-iot-platform) - IBM cloud for the IoT
 * [Cisco Cloud](https://www.cisco.com/c/en/us/solutions/service-provider/index.html) - Cisco cloud solitions
 * [AlibabaCloud](https://www.alibabacloud.com/solutions/IoT) - A cloud computing solution
@@ -85,6 +92,20 @@
 * [Rightech IoT Cloud](https://rightech.io/en/main/) - A cloud platform of Internet of Things
 * [EMQ X Cloud](https://cloud.emqx.io/) - Fully managed MQTT IoT cloud
 * [SAP IoT](https://www.sap.com/products/iot-data-services.html) - Offers capabilities to address industrial IoT use cases
+
+#### 🔴 Videos, 🟠 Articles, 🔵 Tutorials & 🟣 Repositories
+
+* **[MQTT](https://mqtt.org/getting-started/)** - Lightweight message protocol for sending simple data flows from sensors to applications and middleware
+  * [🔴 What is MQTT](https://www.youtube.com/watch?v=EIxdz-2rhLs&t=116s) - What is MQTT and How It Works
+  * [🟠 Why MQTT Protocol Is Used in IoT](https://www.integrasources.com/blog/mqtt-protocol-iot-devices/)
+  * [🔵 NodeRed/MQTT](https://cookbook.nodered.org/mqtt/) - NodeRed Cookbook MQTT Recipes
+  * [🟣 Eclipse Mosquitto](https://github.com/eclipse/mosquitto) - An open source MQTT broker
+
+* **[OPC-UA](https://github.com/OPCFoundation)** - Open standard that specifies information exchange for industrial communication
+  * [🔴 What is OPC](https://www.youtube.com/watch?v=-tDGzwsBokY) - What is OPC? UA in a Minute
+  * [🟣 OPC Foundation GitHub](https://github.com/OPCFoundation) - OPC UA Foundation GitHub Page
+  * [🟣 UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard) - OPC Unified Architecture .NET Standard
+  * [🟣 Node OPC UA](https://github.com/node-opcua/node-opcua) - an implementation of a OPC UA stack fully written in javascript and nodejs
 
 ### ABOUT
 
