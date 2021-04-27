@@ -49,6 +49,7 @@
 * [Crucnhbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them
 * [Clutch/IoT](https://clutch.co/developers/internet-of-things) - Best IoT Companies
 * [Angel/IoT](https://angel.co/internet-of-things) - IoT Sturtups
+* [G2/IoT Platforms](https://www.g2.com/categories/iot-platforms?utf8=%E2%9C%93&order=popular) - Best IoT Platforms
 
 ### DEVELOPMENT
 
@@ -67,6 +68,7 @@
 
 #### Open Source Tools & Platforms
 
+* [curl](https://curl.se/) - Command line tool and library for transferring data with URLs
 * [Platform IO](https://platformio.org/) - Professional collaborative platform for embedded development
 * [NodeRed](https://nodered.org/) - Low-code programming for event-driven applications
 
@@ -74,6 +76,25 @@
 
 * [Mendix](https://www.mendix.com/) - Mendix is the low-code platform for everyone to make business better
 * [Predix](https://www.ge.com/digital/iiot-platform) - Connect, optimize, and scale your digital industrial applications
+* [Fogwing](https://www.fogwing.io/) - Industrial IoT Platform as a Service
+* [MuleSoft](https://www.mulesoft.com/platform/enterprise-integration) - One platform for APIs and integrations
+
+#### Open Source Message Brokers
+
+* [RabitMQ](https://www.rabbitmq.com/) - The most popular open source message broker
+* [Kafka](https://kafka.apache.org/) - An open-source stream processing platform developed by the Apache
+* [ActiveMQ](https://activemq.apache.org/) - The most popular open source, multi-protocol, Java-based message broker
+* [ZeroMQ](https://zeromq.org/) - An open-source universal messaging library
+* [Redis](https://redis.io/) - In-memory data structure store, used as a database, cache, and message broker
+* [Mosquitto](https://mosquitto.org/) - An open source message broker that implements the MQTT protocol
+* [Emqx](https://www.emqx.io/) - Scalable and Reliable Real-time MQTT Message Broker for IoT in the 5G Era
+* [VerneMQ](https://vernemq.com/) - A distributed MQTT message broker based on Erlang/OTP
+
+#### Commercial Message Brokers
+
+* [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/) - Messaging and ingestion for event-driven systems and streaming analytics
+* [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - Enables real-time integration and connecting the Internet of Things
+* [IBM MQ](https://www.ibm.com/products/mq) - IBM MQ offers enterprise-grade messaging capabilities
 
 #### Cloud
 
@@ -97,17 +118,21 @@
 
 #### 🔴 Videos, 🟠 Articles, 🔵 Tutorials & 🟣 Repositories
 
+* **[WiFi]()** - A family of wireless network protocols
+  * [🔴 What is WiFi?](https://www.youtube.com/watch?v=hePLDVbULZc) - That's How Wi-Fi Works
+
 * **[MQTT](https://mqtt.org/getting-started/)** - Lightweight message protocol for sending simple data flows from sensors to applications and middleware
-  * [🔴 What is MQTT](https://www.youtube.com/watch?v=EIxdz-2rhLs&t=116s) - What is MQTT and How It Works
+  * [🔴 What is MQTT?](https://www.youtube.com/watch?v=EIxdz-2rhLs&t=116s) - What is MQTT and How It Works
   * [🟠 Why MQTT Protocol Is Used in IoT](https://www.integrasources.com/blog/mqtt-protocol-iot-devices/)
   * [🔵 NodeRed/MQTT](https://cookbook.nodered.org/mqtt/) - NodeRed Cookbook MQTT Recipes
   * [🟣 Eclipse Mosquitto](https://github.com/eclipse/mosquitto) - An open source MQTT broker
 
 * **[OPC-UA](https://github.com/OPCFoundation)** - Open standard that specifies information exchange for industrial communication
-  * [🔴 What is OPC](https://www.youtube.com/watch?v=-tDGzwsBokY) - What is OPC? UA in a Minute
+  * [🔴 What is OPC?](https://www.youtube.com/watch?v=-tDGzwsBokY) - What is OPC? UA in a Minute
   * [🟣 OPC Foundation GitHub](https://github.com/OPCFoundation) - OPC UA Foundation GitHub Page
   * [🟣 UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard) - OPC Unified Architecture .NET Standard
   * [🟣 Node OPC UA](https://github.com/node-opcua/node-opcua) - an implementation of a OPC UA stack fully written in javascript and nodejs
+  * [🟣 Go OPC UA](https://github.com/gopcua/opcua) - Native Go OPC-UA library
 
 ### ABOUT
 
