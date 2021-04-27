@@ -30,6 +30,7 @@
 * [DZone](https://dzone.com/iot-developer-tutorials-tools-news-reviews) - It is one of the world’s largest online communities
 * [IoT Central](https://www.iotcentral.io/) - Online IoT community
 * [IoT for all](https://www.iotforall.com/) - News centered on the Internet of Things and related disciplines
+* [IoT Agenda](https://internetofthingsagenda.techtarget.com/) -  IoT subject matter experts provide the leading source of IoT news
 * [Techcrunch/IoT](https://techcrunch.com/tag/iot/) - Techcrunch IoT Category
 * [Reddit/HomeAutomation](https://www.reddit.com/r/homeautomation/) - Subreddit for home automation
 * [Reddit/Arduino](https://www.reddit.com/r/arduino/) - Arduino subreddit
@@ -37,6 +38,11 @@
 * [Wirred/IoT](https://www.wired.com/tag/iot/) - Wired IoT Category
 * [EETimes/IoT](https://iot.eetimes.com/) - EETimes IoT News
 * [IoT World Magazine](https://iotworldmagazine.com/) - World's leading online Internet of Things magazine
+* [HackersIO News](https://www.hackster.io/news?ref=topnav) - Hackers IO news category page
+* [Embedded/IoT](https://www.embedded.com/tag/iot/) - Embedded IoT category page
+* [ReadWrite](https://readwrite.com/) - The primary IoT and Connected World media network
+* [IoT Now](https://www.iot-now.com/news/) - Internet of Things News
+* [AWS/Blog/IoT](https://aws.amazon.com/blogs/iot/) - AWS Blog IoT category page
 
 #### Search & Browse Companies
 
