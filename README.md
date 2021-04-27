@@ -1,4 +1,4 @@
-[<img src="banner.png" width="100%">](#)
+[<img src="iot_banner.png" width="100%">](#)
 
 **Index:** [FUNDAMENTALS](https://github.com/seckincengiz/iot#fundamentals) - [DEVELOPMENT](https://github.com/seckincengiz/iot#development) - [RESOURCES](https://github.com/seckincengiz/iot#resources) - [ABOUT](https://github.com/seckincengiz/iot#about)
 
