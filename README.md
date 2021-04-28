@@ -6,8 +6,8 @@
 
 #### IoT 101
 
-* [What is IoT | How it Works](https://www.youtube.com/watch?v=LlhmzVL5bm8)
-* [The Basics of Embedded Systems and the Internet of Things](https://dzone.com/articles/the-basics-of-embedded-systems-and-the-internet-of-things)
+* [What is IoT?](https://www.youtube.com/watch?v=LlhmzVL5bm8) - IoT Explained
+* [The Basics of IoT](https://dzone.com/articles/the-basics-of-embedded-systems-and-the-internet-of-things) - The Basics of Embedded Systems and the Internet of Things
 
 #### Communication Protocols
 
